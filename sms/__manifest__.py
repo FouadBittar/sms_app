@@ -19,6 +19,8 @@ The service is provided by the In App Purchase Odoo platform.
     'qweb': [
         'static/src/xml/sms_widget.xml',
     ],
+    'price' : '120',
+    'currency' : 'EUR' , 
     'installable': True,
     'auto_install': True,
 }
