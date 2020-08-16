@@ -1,15 +1,13 @@
 # -*- coding: utf-8 -*-
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
-    'name': 'SMS gateway',
+    'name': 'SMS BY FOUAD',
     'category': 'Tools',
     'author': 'fouad apps',
-    'summary': 'SMS Text Messaging',
+    'summary': 'Messaging',
     'description': """
-This module gives a framework for SMS text messaging
+This module For test 
 ----------------------------------------------------
-
-The service is provided by the In App Purchase Odoo platform.
 """,
     'depends': ['base', 'iap', 'mail'],
     'data': [
