@@ -18,6 +18,9 @@ This module For test
     'qweb': [
         'static/src/xml/sms_widget.xml',
     ],
+    'images': [
+          'static/src/img/main_screenshot.png'
+       ],
     'price' : '120',
     'currency' : 'EUR' , 
     'installable': True,
